@@ -1,4 +1,3 @@
-package-watcher
-===============
+# File Watcher
 
-File watcher
+This package contains the file watcher for Codebox.
