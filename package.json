@@ -6,7 +6,7 @@
         "codebox": ">=1.0.0"
     },
     "dependencies": {
-        "large-watcher": "0.1.1"
+        "large-watcher": "0.1.2"
     },
     "node": "lib/main.js"
 }
