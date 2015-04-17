@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "description": "File watcher",
     "engines": {
-        "codebox": ">=1.0.0"
+        "codebox": ">=1.0.0-alpha"
     },
     "dependencies": {
         "large-watcher": "0.2.1"
