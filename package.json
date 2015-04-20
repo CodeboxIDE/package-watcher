@@ -8,5 +8,5 @@
     "dependencies": {
         "large-watcher": "0.2.1"
     },
-    "node": "lib/main.js"
+    "main": "lib/main.js"
 }
